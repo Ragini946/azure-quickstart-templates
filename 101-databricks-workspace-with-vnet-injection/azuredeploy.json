@@ -28,14 +28,14 @@
     },
     "customPublicSubnetName": {
       "type": "string",
-      "defaultValue": "public-subnet",
+      "defaultValue": "a0052-Databricks-public-sub01",
       "metadata": {
         "description": "The name of the public subnet in the custom VNet."
       }
     },
     "customPrivateSubnetName": {
       "type": "string",
-      "defaultValue": "private-subnet",
+      "defaultValue": "a0052-Databricks-private-sub01",
       "metadata": {
         "description": "The name of the private subnet in the custom VNet."
       }
